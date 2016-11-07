@@ -9,6 +9,7 @@ var app = express();
 
 hbs.registerPartials(__dirname + '/views/partials');
 
+
 app.set('view engine', 'hbs');
 
 
